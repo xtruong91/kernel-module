@@ -15,7 +15,7 @@ A special file system in Unix-like operation
  system that presents information about processes and other system
  information in a hierarchical file-like structure
 
-![procfs]docs/procfs.PNG?raw=true)
+![Procfs](docs/procfs.PNG?raw=true)
 
 ## Netlink
 
