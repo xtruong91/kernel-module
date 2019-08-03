@@ -8,7 +8,7 @@ Getting started with kernel module, system call
 
 ## System call
 
-![System Call](docs/kernelmodule.PNG?raw=true)
+![System Call](docs/systemcall.PNG?raw=true)
 
 ## Proc filesystem
 A special file system in Unix-like operation
